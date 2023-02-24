@@ -1,3 +1,9 @@
+vyatta-conntrack-sync (0.46+helium0+focal0+rev20230224133649) unstable; urgency=low
+
+  * New branch.
+
+ -- Masakazu Asama <m-asama@ginzado.co.jp>  Fri, 24 Feb 2023 13:37:16 +0900
+
 vyatta-conntrack-sync (0.46+vyos1+helium1) unstable; urgency=low
 
   * New branch
